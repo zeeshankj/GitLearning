@@ -4,3 +4,4 @@ b = 20
 c = (a+b)
 print('Total/ Net Value', c)
 list = [1, 2, 3]
+tuple = (5, 6, 7)
